@@ -1,0 +1,4 @@
+{
+    "command": "npm run build",
+    "working_directory": "/home/kavia/workspace/code-generation/recipe-planner-and-organizer-347632-347648/smart_recipe_frontend"
+}
